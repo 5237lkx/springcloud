@@ -10,6 +10,8 @@ public class Person2 {
 
     private String lkx1;
 
+    private String lkx2;
+
     public String getName() {
         return name;
     }
@@ -34,15 +36,20 @@ public class Person2 {
         this.testBranch = testBranch;
     }
 
-    //
-
-
     public String getLkx1() {
         return lkx1;
     }
 
     public void setLkx1(String lkx1) {
         this.lkx1 = lkx1;
+    }
+
+    public String getLkx2() {
+        return lkx2;
+    }
+
+    public void setLkx2(String lkx2) {
+        this.lkx2 = lkx2;
     }
 
     @Override
