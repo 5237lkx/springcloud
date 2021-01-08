@@ -11,6 +11,8 @@ public class Student2 implements Serializable {
     private String test;
     
     private String test1;
+    
+    private String test3;
 
     public String getName() {
         return name;
