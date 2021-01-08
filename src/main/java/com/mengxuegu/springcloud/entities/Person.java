@@ -10,6 +10,8 @@ public class Person {
 
     private String lkx1;
 
+    private String lkx3;
+    
     public String getName() {
         return name;
     }
