@@ -9,6 +9,8 @@ public class Student2 implements Serializable {
     private String age;
     
     private String test;
+    
+    private String test1;
 
     public String getName() {
         return name;
